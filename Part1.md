@@ -153,7 +153,7 @@ https://www.figma.com/design/xiIvfNcSUWfsoxxOC7jWNA/Low-fi-Wireframe-Template-(C
 ### **8. Hosting:**
 
 - The website will be hosted on [Netlify](https://www.netlify.com/) or from home on Orange Pi 5.
-- Final URL (placeholder): `https://myportfolio.netlify.app`
+- Final URL: `https://katulevskiyportfolio.netlify.app/`
 
 ---
 
@@ -181,5 +181,5 @@ https://www.figma.com/design/xiIvfNcSUWfsoxxOC7jWNA/Low-fi-Wireframe-Template-(C
 
 ## 7. Website Link
 
-**Hosted Site URL (placeholder):**  
-`https://myportfolio.netlify.app`
+**Hosted Site URL:**  
+`https://katulevskiyportfolio.netlify.app/`
