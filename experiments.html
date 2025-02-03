@@ -251,6 +251,48 @@ function example() {
         >Your browser does not support JavaScript or JavaScript is
         disabled.</noscript
       >
+
+      <hr />
+      <h3>Additional Missing HTML Elements</h3>
+
+      <!-- Aside Example -->
+      <aside>
+        <h4>Related Information</h4>
+        <p>This is some additional context related to the main content.</p>
+      </aside>
+
+      <!-- Definition Example -->
+      <p>
+        The term <dfn>Web Accessibility</dfn> refers to the inclusive practice
+        of removing barriers that prevent interaction with, or access to,
+        websites.
+      </p>
+
+      <!-- Source Example -->
+      <h4>Responsive Image Example</h4>
+      <picture>
+        <source srcset="example.webp" type="image/webp" />
+        <source srcset="example.jpg" type="image/jpeg" />
+        <img src="example.jpg" alt="Example image in different formats" />
+      </picture>
+
+      <h4>Audio with Multiple Sources</h4>
+      <audio controls>
+        <source src="example.ogg" type="audio/ogg" />
+        <source src="example.mp3" type="audio/mpeg" />
+        Your browser does not support the audio element.
+      </audio>
+
+      <!-- Template Example -->
+      <h4>Template Element</h4>
+      <template id="card-template">
+        <div class="card">
+          <h3>Title</h3>
+          <p>
+            This content is inside a template and will be rendered dynamically.
+          </p>
+        </div>
+      </template>
     </main>
 
     <div>
